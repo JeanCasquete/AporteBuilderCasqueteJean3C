@@ -1,0 +1,16 @@
+C:\Users\YinRo\source\repos\AporteBuilderCasqueteJean3C\BuilderCasqueteJean3C\bin\Debug\net5.0\BuilderCasqueteJean3C.exe
+C:\Users\YinRo\source\repos\AporteBuilderCasqueteJean3C\BuilderCasqueteJean3C\bin\Debug\net5.0\BuilderCasqueteJean3C.deps.json
+C:\Users\YinRo\source\repos\AporteBuilderCasqueteJean3C\BuilderCasqueteJean3C\bin\Debug\net5.0\BuilderCasqueteJean3C.runtimeconfig.json
+C:\Users\YinRo\source\repos\AporteBuilderCasqueteJean3C\BuilderCasqueteJean3C\bin\Debug\net5.0\BuilderCasqueteJean3C.runtimeconfig.dev.json
+C:\Users\YinRo\source\repos\AporteBuilderCasqueteJean3C\BuilderCasqueteJean3C\bin\Debug\net5.0\BuilderCasqueteJean3C.dll
+C:\Users\YinRo\source\repos\AporteBuilderCasqueteJean3C\BuilderCasqueteJean3C\bin\Debug\net5.0\ref\BuilderCasqueteJean3C.dll
+C:\Users\YinRo\source\repos\AporteBuilderCasqueteJean3C\BuilderCasqueteJean3C\bin\Debug\net5.0\BuilderCasqueteJean3C.pdb
+C:\Users\YinRo\source\repos\AporteBuilderCasqueteJean3C\BuilderCasqueteJean3C\obj\Debug\net5.0\BuilderCasqueteJean3C.csproj.AssemblyReference.cache
+C:\Users\YinRo\source\repos\AporteBuilderCasqueteJean3C\BuilderCasqueteJean3C\obj\Debug\net5.0\BuilderCasqueteJean3C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YinRo\source\repos\AporteBuilderCasqueteJean3C\BuilderCasqueteJean3C\obj\Debug\net5.0\BuilderCasqueteJean3C.AssemblyInfoInputs.cache
+C:\Users\YinRo\source\repos\AporteBuilderCasqueteJean3C\BuilderCasqueteJean3C\obj\Debug\net5.0\BuilderCasqueteJean3C.AssemblyInfo.cs
+C:\Users\YinRo\source\repos\AporteBuilderCasqueteJean3C\BuilderCasqueteJean3C\obj\Debug\net5.0\BuilderCasqueteJean3C.csproj.CoreCompileInputs.cache
+C:\Users\YinRo\source\repos\AporteBuilderCasqueteJean3C\BuilderCasqueteJean3C\obj\Debug\net5.0\BuilderCasqueteJean3C.dll
+C:\Users\YinRo\source\repos\AporteBuilderCasqueteJean3C\BuilderCasqueteJean3C\obj\Debug\net5.0\ref\BuilderCasqueteJean3C.dll
+C:\Users\YinRo\source\repos\AporteBuilderCasqueteJean3C\BuilderCasqueteJean3C\obj\Debug\net5.0\BuilderCasqueteJean3C.pdb
+C:\Users\YinRo\source\repos\AporteBuilderCasqueteJean3C\BuilderCasqueteJean3C\obj\Debug\net5.0\BuilderCasqueteJean3C.genruntimeconfig.cache
