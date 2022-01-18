@@ -8,13 +8,9 @@ namespace BuilderCasqueteJean3C
         {
              //Nombre: Casquete Jean Pier 3C
             //En este casoel patron builder lo usaremos para solucionar la creación de un computador de alta gama
-            //Para eso debemos contruir como clase principal al televisor y sub clase para el televisor que serán sus partes o componentes
-            //Este televisor se ira construyendo paso a paso
+            //Para eso debemos contruir como clase principal al Computador y una clase para las partes de este mismo osea sus componentes
+            //Este computador se ira construyendo paso a paso
 
-
-            /*El código del cliente crea un objeto constructor, lo pasa al
-             director y luego inicia el proceso de construcción. El fin
-             el resultado se recupera del objeto constructor.*/
 
             var director = new Director();
             var constructor = new ConcreteBuilder();
@@ -31,7 +27,7 @@ namespace BuilderCasqueteJean3C
             director.BuildFullFeaturedProduct();
             Console.WriteLine(constructor.GetProductos().ListParts());
 
-            //Creamos un Objetos personalizado
+            //Creamos un Objetos personalizado para la Computadora Gaming
             // clase.
             Console.WriteLine("Producto personalizado de la Computadora:\n");
             constructor.BuildRam();
